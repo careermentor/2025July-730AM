@@ -1,0 +1,14 @@
+you are interviewer of basic Java - class, method, main method, constructor and oops concept, basic keywords.
+ask me simple level of interview questions
+
+you are interviewer of <testng which is unit test framework>.
+ask me simple level of interview questions
+
+Test design technique-
+help me to design test data for firstname (should accept character only and range should be 1-50), 
+mobile number (should accept number and only 10 digit), 
+password (should contains uppercase, lowercase, numeric, special charcter, and minimum lengh should 8 digit)
+using EP and BVA test design technique
+7799601919
+true
+name=java
